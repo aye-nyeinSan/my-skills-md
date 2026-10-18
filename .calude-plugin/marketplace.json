@@ -1,0 +1,14 @@
+{
+  "name": "aye-my-skills",
+  "owner": {
+    "name": "aye-nyeinSan"
+  },
+  "description": "Personal Claude skills by aye-nyeinSan",
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./",
+      "description": "Personal Claude skills: office drama, no-comments, DevOps resume review"
+    }
+  ]
+}
